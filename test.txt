@@ -1,0 +1,17 @@
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','小型教室1','80','9','4','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','迷你教室2','50','7.5','2','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','迷你教室1','50','7.5','2','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','小型教室3','80','9','4','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','中型教室','100','12','12','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('意知教育','专注成实外直升  中-高考','6','小型教室2','80','9','4','wifi，饮品，白板，马克笔');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('学富教育','专业培训室，会议室出租','4','中型教室','50','undefined','20','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('学富教育','专业培训室，会议室出租','4','小型教室','40','undefined','15','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('学富教育','专业培训室，会议室出租','4','大型教室','80','undefined','30','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('学富教育','专业培训室，会议室出租','4','迷你教室','30','undefined','12','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('罗兰数字音乐学校','专业从事音乐教育培训机构','4','小型教室2','50','15','6','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('罗兰数字音乐学校','专业从事音乐教育培训机构','4','大型教室2','70','30','15','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('罗兰数字音乐学校','专业从事音乐教育培训机构','4','大型教室','70','30','15','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('罗兰数字音乐学校','专业从事音乐教育培训机构','4','小型教室','50','15','6','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('成都有间快题教育咨询有限公司','本机构是考研培训机构，主要针对成都地区在读高校生（设计类）考研专业课培训。','3','中型教室','40','30','20','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('成都有间快题教育咨询有限公司','本机构是考研培训机构，主要针对成都地区在读高校生（设计类）考研专业课培训。','3','小型教室','30','20','15','undefined');
+INSERT INTO `test`.`test`(`fName`,`fDescription`,`roomCount`,`roomName`,`roomPrice`,`roomArea`,`roomPeople`,`roomDesc`) VALUES ('成都有间快题教育咨询有限公司','本机构是考研培训机构，主要针对成都地区在读高校生（设计类）考研专业课培训。','3','大型教室','120','100','110','undefined');
